@@ -1,0 +1,27 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    width: 26vw;
+    margin:2EM;
+    border-radius:6em 
+    -webkit-box-shadow: 10px 10px 0px 5px rgba(29,138,58,1);
+    -moz-box-shadow: 10px 10px 0px 5px rgba(29,138,58,1);
+    box-shadow: 10px 10px 0px 5px rgba(29,138,58,1);
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner{
+    border-radius:6em 
+
+}
